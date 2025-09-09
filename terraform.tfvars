@@ -1,0 +1,9 @@
+project_name  = "YourProjectName"
+cidr_block    = "10.0.0.0/16"
+key_pair_name = "your-keys"
+eks_name      = "yourClusterName"
+zone1         = "us-east-1a"
+zone2         = "us-east-1b"
+region        = "us-east-1" # your region
+env           = "your_env"  # dev, stage, prod
+eks_version   = "1.30"      # eks version
