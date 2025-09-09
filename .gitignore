@@ -1,4 +1,4 @@
-# Terraform files to ignore
+# Terraform files to ignore.
 *.tfstate
 *.tfstate.backup
 .terraform/
