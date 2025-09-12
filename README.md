@@ -54,7 +54,7 @@ aws configure
 .
 ├── main.tf                    # Root module configuration
 ├── variables.tf               # Root variables
-├── outputs.tf                  # Root outputs
+├── outputs.tf                 # Root outputs
 ├── providers.tf               # Provider configurations
 ├── terraform.tfvars           # Variable values
 └── modules/
